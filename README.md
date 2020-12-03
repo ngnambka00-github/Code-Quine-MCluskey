@@ -1,2 +1,1 @@
-
-This project is just a demo how to use git
+Chương trình thực hiện cho phương pháp Quine−Mcluskey
